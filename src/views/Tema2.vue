@@ -88,7 +88,8 @@
           .cajon.color-acento-botones.punto-caliente-second-color.px-5.py-4(x="56%" y="90%" numero="+")  
             .row.justify-content-center
               p Se refiere a los factores del entorno que bloquean la comunicación; estos son ambientales como el ruido y la distancia, tecnológicos como fallas en Internet, deficiente calidad de la señal de Internet, equipos celulares, y equipos de cómputo. 
-
+    
+    .row.align-items-end.bg3.h4.p-3.mt-5 Técnicas de comunicación 
     p.mt-5.mb-5  Las técnicas en la comunicación son la forma y el modo en que debe darse la comunicación para que esta sea efectiva.
     p.mb-5  Como parte de las técnicas de comunicación están:
     .row.justify-content-center.mt-5    

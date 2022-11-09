@@ -569,19 +569,20 @@
 
           .cajon.color-acento-botones.punto-caliente-second-color.px-5.py-4(x="49%" y="17%" numero="+")  
             .row.justify-content-center
-              p Es el eje central del triángulo de servicio, al igual que de la estrategia, los actores del negocio que interactúan alrededor de él, sus necesidades y sus motivaciones. 
+              p Corresponde a los parámetros fijados para consolidar el equipo de trabajo, orientada a ofrecer un servicio de calidad.
 
           .cajon.color-acento-botones.punto-caliente-second-color.px-5.py-4(x="43%" y="60%" numero="+")  
             .row.justify-content-center
-              p Corresponde a los parámetros fijados para consolidar el equipo de trabajo, orientada a ofrecer un servicio de calidad.
+              p Es el eje central del triángulo de servicio, al igual que de la estrategia, los actores del negocio que interactúan alrededor de él, sus necesidades y sus motivaciones.             
                 
           .cajon.color-acento-botones.punto-caliente-second-color.px-5.py-4(x="26%" y="77%" numero="+")  
             .row.justify-content-center
-              p Deben ser plenos conocedores de la promesa de valor o de servicio al cliente.
+              p Son las técnicas y herramientas que utilizan los colaboradores para prestar el servicio, los cuales deben ser manejables tanto para el personal, como para el cliente.
+              
 
           .cajon.color-acento-botones.punto-caliente-second-color.px-5.py-4(x="70%" y="77%" numero="+")  
             .row.justify-content-center
-              p Son las técnicas y herramientas que utilizan los colaboradores para prestar el servicio, los cuales deben ser manejables tanto para el personal, como para el cliente.
+              p Deben ser plenos conocedores de la promesa de valor o de servicio al cliente.
 
       p.mt-5.mb-5 Siguiendo esta dinámica operativa, se dan una serie de relaciones estrechas y funcionales, las cuales se enuncian en la Tabla 1.
       .row.justify-content-center.mt-5    
