@@ -110,7 +110,7 @@
           p.text-center.mt-5 Clientes satisfechos e insatisfechos.
 
     p.mt-5.mb-5 Estos tipos de clientes se tratarán conforme a su temperamento y carácter, porque es claro que existe una pequeña posibilidad de encontrar diversos temperamentos que se encuentran conformados por: mecanismos de defensa, estímulos nerviosos, conexiones nerviosas e impulsos, que influyen directamente en el comportamiento y la conducta humana.
-
+    p.mb-5 A continuación, se presentan los tipos de clientes y se podrán comprender sus características y cuál sería la forma adecuada para relacionarse con ellos.
     .row.justify-content-center.mt-5    
       .col-md-8
       ImagenInfografica.color-acento-botones
@@ -147,11 +147,11 @@
     p.mt-5.mb-5 De esta manera y con el objetivo de trabajar por la satisfacción del cliente, es necesario conocer el decálogo o mandamientos para prestarle atención, los cuales tienen aplicación y efectividad, aunque se tenga gran diversidad de clientes existentes.
     p.mb-5 El decálogo es el siguiente:
     .row.justify-content-center.mt-5    
-      .col-md-8
+      .col-md-9
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row
-            .col-lg
-              p El cliente por encima de todo.
+            .col-lg.t-align                 
+                p.text-center El cliente por encima de todo.
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/img15.png', alt='').img125  
@@ -159,10 +159,10 @@
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/img16.png', alt='').img125    
-            .col-lg
+            .col-lg.t-align
               p No hay nada imposible cuando se quiere.
           .row
-            .col-lg
+            .col-lg.t-align
               p Cumplir todo lo que se promete.
             .col-auto
               figure(data-aos="zoom-in")
@@ -171,11 +171,11 @@
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/img18.png', alt='').img125  
-            .col-lg
+            .col-lg.t-align
               p Darle al cliente más de lo que espera.
 
           .row
-            .col-lg
+            .col-lg.t-align
               p La buena atención marca la diferencia.
             .col-auto
               figure(data-aos="zoom-in")
@@ -185,11 +185,11 @@
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/img20.png', alt='').img125 
-            .col-lg
+            .col-lg.t-align
               p Fallar en un punto, significa fallar en todo.
 
           .row
-            .col-lg
+            .col-lg.t-align
               p Empleado insatisfecho, genera clientes insatisfechos.
             .col-auto
               figure(data-aos="zoom-in")
@@ -199,11 +199,11 @@
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/img22.png', alt='').img125   
-            .col-lg
+            .col-lg.t-align
               p El juicio sobre la calidad del servicio lo hace el cliente.
           
           .row
-            .col-lg
+            .col-lg.t-align
               p Por muy bueno que sea un servicio, siempre se puede mejorar.
             .col-auto
               figure(data-aos="zoom-in")
@@ -213,7 +213,7 @@
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/img24.png', alt='').img125                                                                                                                                             
-            .col-lg
+            .col-lg.t-align
               p Cuando se trata de satisfacer al cliente, todos son un equipo.
 
     p.mt-5.mb-5  Si se analiza este decálogo, se observa la síntesis acerca de todo lo que se debe ser y hacer, para lograr la satisfacción del cliente, conociendo la premisa “el cliente por encima de todo”; al ganar un cliente, se ha incurrido en una inversión de dinero y grandes esfuerzos que pueden perderse con bastante facilidad por una mala atención al cliente o al prospecto, en especial, cuando se manifiestan la indiferencia y la mala atención del personal de ventas y servicios.             
@@ -227,7 +227,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img25.png", alt="alt")
             .crd_hover_txt--body.text-center
-              h2.mb-3 No ser indiferente.   
+              p.mb-3 No ser indiferente   
 
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -235,7 +235,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img26.png", alt="alt")
             .crd_hover_txt--body.text-center
-              h4.mb-3 Ser diligente. 
+              p.mb-3 Ser diligente 
 
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -243,7 +243,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img27.png", alt="alt")
             .crd_hover_txt--body.text-center
-              h4.mb-3 No acudir a malos tratos.    
+              p.mb-3 No acudir a malos tratos    
 
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -251,7 +251,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img28.png", alt="alt")
             .crd_hover_txt--body.text-center
-              h4.mb-3 Cumplimiento.  
+              p.mb-3 Cumplimiento  
 
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -259,7 +259,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img29.png", alt="alt")
             .crd_hover_txt--body.text-center
-              h4.mb-3 Tacto al interactuar con el cliente.  
+              p.mb-3 Tacto al interactuar con el cliente  
 
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -267,7 +267,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img30.png", alt="alt")
             .crd_hover_txt--body.text-center
-              h5.mb-3 Conocimiento de la empresa y sus procesos.
+              p.mb-3 Conocimiento de la empresa y sus procesos
 
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -275,7 +275,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img31.png", alt="alt")
             .crd_hover_txt--body.text-center
-              h4.mb-3 Hablar con la verdad.
+              p.mb-3 Hablar con la verdad
 
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -283,7 +283,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img32.png", alt="alt")
             .crd_hover_txt--body.text-center
-              h4.mb-3 Preparación técnica. 
+              p.mb-3 Preparación técnica 
 
     
     .row.align-items-end.bg3.h4.p-3.mt-5 Manual de procedimientos de atención al cliente
@@ -422,8 +422,8 @@
             figure
               img(src="@/assets/curso/temas/tema1/img40.png", alt="alt")
 
-    .row.align-items-end.bg3.h4.p-3.mt-5 Imagen corporativa 
     p.mt-5.mb-5 Es necesario considerar que en algunas teorías administrativas se afirma que, en todos los sectores económicos, el servicio al cliente y la forma en que se ofrece son factores intangibles que inciden de manera importante en los indicadores de productividad, de efectividad y competitividad de las organizaciones, reconociendo que la franja más importante de la calidad en el servicio al cliente, obedece o depende del desempeño que directamente, en los momentos de verdad, realicen los funcionarios o representantes del servicio al cliente al adquirir sus productos o servicios. (Botia, 2012)
+    .row.align-items-end.bg3.h4.p-3.mt-5 Imagen corporativa 
     .row.justify-content-center.mt-5
       .col-md-10
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
@@ -470,7 +470,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img43.png", alt="alt")
             .crd_hover_txt--body.text-center
-              p.mb-3 Cortesía y amabilidad de los empleados.   
+              p.mb-3 Cortesía y amabilidad de los empleados   
 
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -478,7 +478,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img44.png", alt="alt")
             .crd_hover_txt--body.text-center
-              p.mb-3 Dedicación del tiempo oportuno para cada cliente. 
+              p.mb-3 Dedicación del tiempo oportuno para cada cliente 
               
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -486,7 +486,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img45.png", alt="alt")
             .crd_hover_txt--body.text-center
-              p.mb-3 Eficacia en la resolución de conflictos.
+              p.mb-3 Eficacia en la resolución de conflictos
 
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -494,7 +494,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img46.png", alt="alt")
             .crd_hover_txt--body.text-center
-              p.mb-3 Amabilidad y trato recibidos.   
+              p.mb-3 Amabilidad y trato recibidos   
 
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -502,7 +502,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img47.png", alt="alt")
             .crd_hover_txt--body.text-center
-              p.mb-3 Tiempo de espera para la recepción de los servicios. 
+              p.mb-3 Tiempo de espera para la recepción de los servicios 
 
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -510,7 +510,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img48.png", alt="alt")
             .crd_hover_txt--body.text-center
-              p.mb-3 Disposición de la organización para resolver problemas.
+              p.mb-3 Disposición de la organización para resolver problemas
 
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -518,7 +518,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img49.png", alt="alt")
             .crd_hover_txt--body.text-center
-              p.mb-3 Rapidez en la entrega de los servicios.
+              p.mb-3 Rapidez en la entrega de los servicios
 
 
     p.mnt-5.mb-5 La organización proyectada hacia un futuro promisorio debe, luego de estructurar la organización y antes de ponerla en marcha, definir cuál será su estrategia de atención al cliente, en donde se defina con claridad, la importancia de establecer los parámetros para su servicio y cumplimiento, por parte de los colaboradores de la empresa, en especial de los representantes de servicio al cliente.
@@ -531,7 +531,7 @@
     .row.align-items-end.bg3.h4.p-3.mt-5 Gestión de calidad en el servicio al cliente
     p.mt-5.mb-5 En el servicio al cliente, la gestión de la calidad obedece a lo consignado en la Norma Técnica Colombiana NTC ISO 9001:2015, donde su implementación se realiza especialmente en el enfoque al cliente; esto implica trabajar continuamente para cumplir los requisitos especificados en el producto o servicios, satisfacer al cliente superando sus expectativas y trabajar por una mejora continua en los procesos, de tal manera que siempre se oferten productos y servicios de excelente calidad. 
     p.mb-5 Lo invitamos a ver el siguiente video, donde conocerá más sobre la gestión de la calidad en el servicio al cliente.
-    p.mb-5 El proceso de la gestión de la calidad en el servicio al cliente
+    
 
     figure
       .video
@@ -557,7 +557,7 @@
 
     .row.align-items-end.bg3.h4.p-3.mt-5 Triángulo del servicio 
     p.mt-5.mb-5 Es una estructura diseñada en los 80 por Karl Albrecht, con el objetivo de crear una filosofía de servicio encargada de integrar momentos claves de la actividad económica para mejorar la experiencia del cliente, operando de manera sincronizada y sistémica, y concibiendo el servicio como un todo que funciona alrededor del cliente.
-    
+    p.mb-5 A continuación, se presenta la conformación del triángulo del servicio.
     .row.justify-content-center.mt-5    
       .col-md-6
         ImagenInfografica.color-acento-botones
@@ -588,7 +588,7 @@
       .row.justify-content-center.mt-5    
       .col-md-9
         figure 
-          img(src='@/assets/curso/temas/tema1/img51.png', alt='alt').mb-5
+          img(src='@/assets/curso/temas/tema1/img51.svg', alt='alt').mb-5
 
         .cajon.tarjeta-radius.color-acento-contenido.cajon-second-color.p-3
           .row.justify-content-center.p-4                
@@ -621,7 +621,7 @@
  
           div(titulo="Estructura organizacional").bg2.p-5
             .row.justify-content-center
-                p Se respalda en una estructura organizacional ampliamente capacitada para atender todo tipo de cliente sin distinción, haciendo uso de la empatía, el respeto, la amabilidad, manteniendo siempre la claridad de que se atiende a las personas
+                p Se respalda en una estructura organizacional ampliamente capacitada para atender todo tipo de cliente sin distinción, haciendo uso de la empatía, el respeto, la amabilidad, manteniendo siempre la claridad de que se atiende a las personas.
 
           div(titulo="Procesos").bg2.p-5
             .row.justify-content-center
@@ -633,7 +633,7 @@
 
     .row.align-items-end.bg3.h4.p-3.mt-5 Canales de atención al cliente
     p.mt-5.mb-5 Entre los canales de atención al cliente siempre se encontrará, en primer lugar, la atención cara a cara donde la organización tiene la oportunidad de atender a un cliente, interactuando de tal forma, que le brinde toda la información y satisfaga sus necesidades y expectativas.
-    p.mb-5 Existen nuevas formas de atender al cliente, con el propósito de estar al alcance de un clic y estas son:
+    p.mb-5 Existen nuevas formas de atender al cliente, con el propósito de estar al alcance de un #[i clic] y estas son:
 
     .row.justify-content-center.bg4.mg-img.mt-5.mb-5.mg-img-final
       .row.justify-content-center.mt-5  
@@ -671,7 +671,7 @@
                   figure
                     img(src="@/assets/curso/temas/tema1/img57.png", alt="alt") 
 
-            div(titulo="Chat").bg2.px-5
+            div(titulo="<i>Chat</i>").bg2.px-5
               .row.justify-content-center
                 .col-md-7
                   p Consiste en intercambiar mensajes con los clientes directamente desde el sitio #[i web] de la empresa o mediante la aplicación de mensajería haciendo uso de la inteligencia artificial, de manera que preste asistencia automática.

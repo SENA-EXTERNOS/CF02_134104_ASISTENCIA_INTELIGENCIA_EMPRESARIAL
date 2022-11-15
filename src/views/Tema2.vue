@@ -31,7 +31,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/img3.png", alt="alt")
           .crd_hover_txt--body.tarjeta-curuva.text-center
-            h3.mb-3 #[span.text-bold SAC] (Servicio al cliente)
+            h4.mb-4.mt-2 #[span.text-bold SAC] (Servicio al cliente)
             p.text-center Canal que se utiliza para responder consultas, realizar sugerencias, obtener información y resolver problemas relacionados con una empresa y/o sus productos. El sistema de atención al cliente está enfocado en aclarar dudas, abrir llamadas, información en general, etc.
 
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -40,7 +40,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/img4.png", alt="alt")
           .crd_hover_txt--body.tarjeta-curuva.text-center
-            h3.mb-3 Soporte de ventas
+            h4.mb-4 Soporte de ventas
             p.text-center Para proporcionar orientación sobre productos y servicios, y colaborar con la decisión de compra del cliente.
 
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -49,7 +49,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/img5.png", alt="alt")
           .crd_hover_txt--body.tarjeta-curuva.text-center
-            h3.mb-3 Soporte técnico
+            h4.mb-4 Soporte técnico
             p.text-center Orientado a resolver preguntas relacionadas con la operación e instalación de equipos y productos.
 
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -58,7 +58,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/img6.png", alt="alt")
           .crd_hover_txt--body.tarjeta-curuva.text-center
-            h3.mb-3 Defensor del consumidor
+            h4.mb-4 Defensor del consumidor
             p.text-center Nivel de servicio superior, utilizado cuando los otros canales no son suficientes para resolver la cita del cliente.
 
     .row.align-items-end.bg3.h4.p-3.mt-5 Barreras en la comunicación
