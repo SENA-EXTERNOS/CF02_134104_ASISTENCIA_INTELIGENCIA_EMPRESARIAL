@@ -15,7 +15,7 @@
             figure
               img(src="@/assets/curso/portada/introduccion.png", alt="alt")
           .col-sm-7.mb-3
-            p.mt-5 Apreciado aprendiz, bienvenido a este componente formativo, donde se trabajará sobre los requerimientos de servicio al cliente, reconocidos como una estrategia de atención que la organización debe definir, de manera minuciosa y detallada, con el fin de garantizar que el cliente siempre encontrará respuesta y solución a sus peticiones; de esta manera, se dota a los representantes de este servicio, de un protocolo de atención detallado como procedimiento, estructurado en un manual que lleva ese nombre, con el fin de brindar las herramientas necesarias que faciliten la atención y el servicio al cliente.
+            p.mt-5 Apreciado aprendiz, bienvenido a este componente formativo, donde se trabajará sobre los requerimientos de servicio al cliente, reconocidos como una estrategia de atención, que la organización debe definir, de manera minuciosa y detallada, con el fin de garantizar que el cliente siempre encontrará respuesta y solución a sus peticiones; de esta manera, se dota a los representantes de este servicio, de un protocolo de atención detallado como procedimiento, estructurado en un manual que lleva ese nombre, con el fin de brindar las herramientas necesarias que faciliten la atención y el servicio al cliente.
 
     p.mt-5.mb-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
     figure

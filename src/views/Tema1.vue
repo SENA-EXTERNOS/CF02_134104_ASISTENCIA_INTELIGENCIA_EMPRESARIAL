@@ -51,7 +51,7 @@
           .bloque-texto-g__texto.bloque-text-rigth.p-4
             p El cliente puede ser una persona natural o jurídica, que recibe un producto o servicio destinado o requerido por él mismo y que busca siempre satisfacer una necesidad a través de esa compra o adquisición, de un producto tangible o intangible.                
 
-    p.mt-5.mb-5 Por lo regular, en una organización, se pueden encontrar dos tipos de clientes.
+    p.mt-5.mb-5 Por lo regular, en una organización, se pueden encontrar dos tipos de clientes:
     .row.justify-content-center.mt-5
       .col-md-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon-verde").mt-5
@@ -110,7 +110,7 @@
           p.text-center.mt-5 Clientes satisfechos e insatisfechos.
 
     p.mt-5.mb-5 Estos tipos de clientes se tratarán conforme a su temperamento y carácter, porque es claro que existe una pequeña posibilidad de encontrar diversos temperamentos que se encuentran conformados por: mecanismos de defensa, estímulos nerviosos, conexiones nerviosas e impulsos, que influyen directamente en el comportamiento y la conducta humana.
-    p.mb-5 A continuación, se presentan los tipos de clientes y se podrán comprender sus características y cuál sería la forma adecuada para relacionarse con ellos.
+    p.mb-5 A continuación, se presentan los tipos de clientes y se podrán comprender sus características y cuál sería la forma adecuada para relacionarse con ellos:
     .row.justify-content-center.mt-5    
       .col-md-8
       ImagenInfografica.color-acento-botones
@@ -369,7 +369,7 @@
           .row.justify-content-center.p-4                
             p Asimismo, la etiqueta de la empresa es regida mediante unas reglas o principios, que hacen referencia al marco de acción que se define para que los representantes de servicio al cliente presten un excelente servicio, brindando siempre un estándar alto en lo referente a su satisfacción, necesidades y expectativas. 
 
-    p.mt-5.mb-5 A continuación, se detalla cada una de estas reglas.
+    p.mt-5.mb-5 A continuación, se detalla cada una de estas reglas:
     .row.justify-content-center.mb-5.mt-5
       .col-md-10    
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon-verde").mt-5
@@ -399,11 +399,11 @@
 
           div(titulo="Humildad").bg2.p-5
             .row.justify-content-center
-                p Se define como la actitud que se asume para atender a todo tipo de cliente, sin hacer acepción de personas, como en el caso de cometer un error, aceptarlo, y expresar su voluntad para corregirlo.
+                p Se define como la actitud que se asume para atender a todo tipo de cliente, sin hacer acepción de personas, como en el caso de cometer un error, aceptarlo y expresar su voluntad para corregirlo.
 
           div(titulo="Sencillez").bg2.p-5
             .row.justify-content-center
-                p Es la capacidad de comportarse de manera uniforme, a pesar de las circunstancias. En el ámbito empresarial, es necesario hablar con sencillez, mantener una imagen discreta y natural, y brindar un trato amable a todas las personas sin importar el cargo o título que tenga en la organización.
+                p Es la capacidad de comportarse de manera uniforme, a pesar de las circunstancias. En el ámbito empresarial, es necesario hablar con sencillez, mantener una imagen discreta y natural, además de brindar un trato amable a todas las personas, sin importar el cargo o título que tenga en la organización.
 
           div(titulo="Empatía").bg2.p-5
             .row.justify-content-center
@@ -461,7 +461,7 @@
         .cajon.tarjeta-radius.color-acento-contenido.cajon-second-color.p-3
           .row.justify-content-center.p-4                
             p Cobra importancia en la puesta en escena, cuando un representante de servicio al cliente se encuentra cara a cara con el cliente o cuenta con el reto de satisfacer su necesidad, indiferente del canal que se utiliza y debe, inevitablemente, hacer uso de los elementos significativos de servicio al cliente.
-    p.mt-5.mb-5 A continuación, se presenta cada uno de los elementos del servicio al cliente.
+    p.mt-5.mb-5 Veamos cada uno de los elementos del servicio al cliente:
     .row.justify-content-center.mb-5
       SlyderF(columnas="col-md-4")    
         .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -530,7 +530,8 @@
 
     .row.align-items-end.bg3.h4.p-3.mt-5 Gestión de calidad en el servicio al cliente
     p.mt-5.mb-5 En el servicio al cliente, la gestión de la calidad obedece a lo consignado en la Norma Técnica Colombiana NTC ISO 9001:2015, donde su implementación se realiza especialmente en el enfoque al cliente; esto implica trabajar continuamente para cumplir los requisitos especificados en el producto o servicios, satisfacer al cliente superando sus expectativas y trabajar por una mejora continua en los procesos, de tal manera que siempre se oferten productos y servicios de excelente calidad. 
-    p.mb-5 Lo invitamos a ver el siguiente video, donde conocerá más sobre la gestión de la calidad en el servicio al cliente.
+
+    p.mb-5 Lo invitamos a ver el siguiente video, donde conocerá más sobre la gestión de la calidad en el servicio al cliente:
     
 
     figure
@@ -551,7 +552,7 @@
                 h5.mt-3.text-white Pasos para realizar un ciclo de servicio.
                 p.text-small.text-white Para aprender a realizar un ciclo de servicio, lo invitamos leer el documento #[span.text-bold Pasos para realizar un ciclo de servicio.]
             .col-md-2.mt-4
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Pasos para realizar un ciclo de servicio.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Pasos_para_realizar_un_ciclo_de_servicio.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
@@ -584,9 +585,13 @@
             .row.justify-content-center
               p Deben ser plenos conocedores de la promesa de valor o de servicio al cliente.
 
-      p.mt-5.mb-5 Siguiendo esta dinámica operativa, se dan una serie de relaciones estrechas y funcionales, las cuales se enuncian en la Tabla 1.
+      p.mt-5.mb-5 Siguiendo esta dinámica operativa, se dan una serie de relaciones estrechas y funcionales:
       .row.justify-content-center.mt-5    
       .col-md-9
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Tabla 1 
+          br
+          span.fst-italic Relaciones generadas en el triángulo de servicio al cliente
         figure 
           img(src='@/assets/curso/temas/tema1/img51.svg', alt='alt').mb-5
 
@@ -600,9 +605,13 @@
     #t_1_4.titulo-segundo.color-acento-contenido.mt-5
       h2 1.4 Técnicas y canales de atención al cliente
 
-    p.mt-5.mb-5  Más allá de enumerar las técnicas en cuanto a la atención al cliente, es necesario precisar la estrategia que posibilitará una atención integral al cliente constituyéndose como un modelo de servicio al cliente, como se presenta en la Figura 1.
+    p.mt-5.mb-5 Más allá de enumerar las técnicas en cuanto a la atención al cliente, es necesario precisar la estrategia que posibilitará una atención integral al cliente constituyéndose como un modelo de servicio al mismo:
     .row.justify-content-center.mt-5    
       .col-md-9
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 1
+          br 
+          span.fst-italic  Modelo de la estrategia del servicio al cliente
         figure 
           img(src='@/assets/curso/temas/tema1/img52.png', alt='alt').mb-5
 
@@ -663,7 +672,7 @@
                   figure
                     img(src="@/assets/curso/temas/tema1/img56.png", alt="alt")  
 
-            div(titulo="E-mail").bg2.px-5
+            div(titulo="<em>E-mail</em>").bg2.px-5
               .row.justify-content-center
                 .col-md-7
                   p El correo electrónico tiene aplicación para formalizar la comunicación con el cliente, es más dinámico en el sentido que el agente de servicio use respuestas automáticas y predeterminadas para optimizar su labor.

@@ -122,30 +122,30 @@ export default {
   complementario: [
     {
       tema: 'Atención y servicio al cliente',
-      referencia: 'HubSpot. s.f. <i>Guía de marketing omnicanal</i>',
+      referencia: 'HubSpot. (s.f.). <em>Guía de marketing omnicanal.</em> ',
       tipo: 'PDF',
       link:
         'https://www.hubspot.com/hubfs/00-OFFERS-HIDDEN/SPANISH%20-%20Omnichannel%20Marketing%20REVAMP/Gu%C3%ADa%20de%20marketing%20omnicanal.pdf?hubs_post-cta=author&hubs_post=blog.hubspot.es%252Fservice%252Fejemplos-experiencia-omnicanal&_ga=2.252538382.648710178.1661922427-331221168.1661922427&hubs_offer=offers.hubspot.es%252Fpersonalizacion-omnicanal&submissionGuid=b2b9c6b1-dd6d-4be9-bb7a-d5f373840d34',
     },
     {
-      tema: 'Servicio al cliente',
+      tema: 'Atención y servicio al cliente',
       referencia:
-        'Consorcio de Organizaciones Privadas de Promoción al Desarrollo de la Micro y Pequeña Empresa (COPEME). (2009). <i>Ciclo de Servicio.</i> ',
+        'Consorcio de Organizaciones Privadas de Promoción al Desarrollo de la Micro y Pequeña Empresa (COPEME). (2009). <em>Ciclo de Servicio.</em>',
       tipo: 'PDF',
       link: 'https://sptf.info/images/ciclo_de_servicio.pdf',
     },
     {
-      tema: 'Servicio al cliente',
+      tema: 'Atención y servicio al cliente',
       referencia:
-        'Marketing & finanzas. (2013). <i>7 Requerimientos Mínimos para un Excelente Servicio al Cliente.</i>',
+        'Marketing & finanzas. (2013). 7 <em>Requerimientos Mínimos para un Excelente Servicio al Cliente.</em> ',
       tipo: 'Artículo',
       link:
         'https://www.marketingyfinanzas.net/2013/07/7-requerimiento-minimos-para-un-excelente-servicio-al-cliente/ ',
     },
     {
-      tema: 'Servicio al cliente',
+      tema: 'Atención y servicio al cliente',
       referencia:
-        'Icontec. (2015). NTC ISO 9001. <i>Sistemas de gestión de la calidad. Requisitos.</i>',
+        'Icontec. (2015). NTC ISO 9001. <em>Sistemas de gestión de la calidad. Requisitos.</em> ',
       tipo: 'Documento',
       link:
         'https://colaboracion.dnp.gov.co/CDT/Normograma/NORMA%20ISO%209001%202015.pdf',
