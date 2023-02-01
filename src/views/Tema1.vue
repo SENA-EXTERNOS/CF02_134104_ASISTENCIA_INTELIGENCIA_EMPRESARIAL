@@ -558,7 +558,7 @@
 
     .row.align-items-end.bg3.h4.p-3.mt-5 Triángulo del servicio 
     p.mt-5.mb-5 Es una estructura diseñada en los 80 por Karl Albrecht, con el objetivo de crear una filosofía de servicio encargada de integrar momentos claves de la actividad económica para mejorar la experiencia del cliente, operando de manera sincronizada y sistémica, y concibiendo el servicio como un todo que funciona alrededor del cliente.
-    p.mb-5 A continuación, se presenta la conformación del triángulo del servicio.
+    p.mb-5 A continuación, se presenta la conformación del triángulo del servicio:
     .row.justify-content-center.mt-5    
       .col-md-6
         ImagenInfografica.color-acento-botones
@@ -616,7 +616,7 @@
           img(src='@/assets/curso/temas/tema1/img52.png', alt='alt').mb-5
 
     p.mb-5  El objetivo del modelo de servicio al cliente es el de encontrar las estrategias que faciliten el cumplimiento de la satisfacción del mismo, lo que incluye implícitamente otros atributos que deben enumerarse: oportunidad, calidad, veracidad o cumplimiento de las promesas hechas al cliente y su entendimiento, sin los cuales no se logrará una calificación excelente por parte del mismo.
-    p.mb-5 A continuación, se detalla más información del modelo de servicio al cliente.
+    p.mb-5 A continuación, se detalla más información del modelo de servicio al cliente:
 
     .row.justify-content-center.mt-5    
       .col-md-5
