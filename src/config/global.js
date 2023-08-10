@@ -148,7 +148,7 @@ export default {
         'Icontec. (2015). NTC ISO 9001. <em>Sistemas de gestión de la calidad. Requisitos.</em> ',
       tipo: 'Documento',
       link:
-        'https://colaboracion.dnp.gov.co/CDT/Normograma/NORMA%20ISO%209001%202015.pdf',
+        'https://www.forpo.gov.co/es/planeacion-gestion-y-control/control-interno-1/normatividad-2/5159-norma-iso-9001-2015/file',
     },
   ],
   glosario: [
