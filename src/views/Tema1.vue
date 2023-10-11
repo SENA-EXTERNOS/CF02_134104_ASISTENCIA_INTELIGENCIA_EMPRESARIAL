@@ -347,7 +347,7 @@
         .row
           .col-md-7.mb-4.mb-md-0.p-4
             h4 Herramientas y recursos
-            p Para garantizar un excelente servicio al cliente, se deben considerar todas las herramientas necesarias que hagan de este, un servicio eficiente y, del personal a cargo, más autosuficiente para brindar soluciones como enlaces de especificaciones de productos, publicadas por los fabricantes, así como también los recursos para obtener información e interactuar con los clientes de manera más independiente y satisfactoria.
+            p Para garantizar un excelente servicio al cliente, se deben considerar todas las herramientas necesarias que hagan de este, un servicio eficiente del personal a cargo, más autosuficiente para brindar soluciones como enlaces de especificaciones de productos, publicadas por los fabricantes, así como también los recursos para obtener información e interactuar con los clientes de manera más independiente y satisfactoria.
           .col-md-5
             figure
               img(src="@/assets/curso/temas/tema1/img39.png", alt="alt")
@@ -550,7 +550,7 @@
                 img(src="@/assets/curso/temas/img3.png")
             .col-md-8
                 h5.mt-3.text-white Pasos para realizar un ciclo de servicio.
-                p.text-small.text-white Para aprender a realizar un ciclo de servicio, lo invitamos leer el documento #[span.text-bold Pasos para realizar un ciclo de servicio.]
+                p.text-small.text-white Para aprender a realizar un ciclo de servicio, lo invitamos a leer el documento #[span.text-bold Pasos para realizar un ciclo de servicio.]
             .col-md-2.mt-4
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Pasos_para_realizar_un_ciclo_de_servicio.pdf')" target="_blank")
                 span Descargar
@@ -699,7 +699,7 @@
             div(titulo="Aplicaciones de mensajería").bg2.px-5
               .row.justify-content-center
                 .col-md-7
-                  p WhatsApp, Facebook, Messenger y otras aplicaciones de mensajería asincrónica, también forman parte de la lista de canales de servicio que puede utilizar una empresa.
+                  p #[i WhatsApp, Facebook, Messenger] y otras aplicaciones de mensajería asincrónica, también forman parte de la lista de canales de servicio que puede utilizar una empresa.
                 .col-md-5
                   figure
                     img(src="@/assets/curso/temas/tema1/img60.png", alt="alt")  

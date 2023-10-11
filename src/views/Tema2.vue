@@ -25,7 +25,7 @@
     p.mb-5 A continuación, se presentan las siguientes:
 
     .row.justify-content-center.mb-5   
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-lg-5.col-md-9.col-11.mb-4.mb-xl-0.my-4
         .crd_hover_txt.h-tarjeta-curuva(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -34,7 +34,7 @@
             h4.mb-4.mt-2 #[span.text-bold SAC] (Servicio al cliente)
             p.text-center Canal que se utiliza para responder consultas, realizar sugerencias, obtener información y resolver problemas relacionados con una empresa y/o sus productos. El sistema de atención al cliente está enfocado en aclarar dudas, abrir llamadas, información en general, etc.
 
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-lg-5.col-md-9.col-11.mb-4.mb-xl-0.my-4
         .crd_hover_txt.h-tarjeta-curuva(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -43,7 +43,7 @@
             h4.mb-4 Soporte de ventas
             p.text-center Para proporcionar orientación sobre productos y servicios, y colaborar con la decisión de compra del cliente.
 
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-lg-5.col-md-9.col-11.mb-4.mb-xl-0.my-4
         .crd_hover_txt.h-tarjeta-curuva(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -52,7 +52,7 @@
             h4.mb-4 Soporte técnico
             p.text-center Orientado a resolver preguntas relacionadas con la operación e instalación de equipos y productos.
 
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-lg-5.col-md-9.col-11.mb-4.mb-xl-0.my-4
         .crd_hover_txt.h-tarjeta-curuva(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -98,7 +98,7 @@
           .row
             .col-lg
               h3 Escucha activa
-              p Consiste en un esfuerzo que requiere disposición y atención para interpretar, de manera correcta, el mensaje que se recibe. Es una técnica clave en el proceso de comunicación, gracias a que sabiendo escuchar con paciencia, se puede dar una respuesta al mensaje o solicitud recibido.
+              p Consiste en un esfuerzo que requiere disposición y atención para interpretar, de manera correcta, el mensaje que se recibe. Es una técnica clave en el proceso de comunicación, gracias a que sabiendo escuchar con paciencia, se puede dar una respuesta al mensaje o solicitud recibida.
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema2/img8.png', alt='').img125  
